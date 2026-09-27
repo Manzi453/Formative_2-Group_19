@@ -1,0 +1,36 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (large files — keep out of git)
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.pkl
+
+# Large datasets (adjust once the data strategy is decided)
+data/raw/
+data/processed/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
