@@ -34,3 +34,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Challenge data (download from Zindi; never commit - see data/README.md)
+data/*.zip
+data/gender-based-violence-tweet-classification-challenge/
+
+# Model checkpoints in subfolders (models/*/ keep only .gitkeep)
+models/**/checkpoints/
