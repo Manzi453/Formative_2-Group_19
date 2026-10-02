@@ -1,0 +1,7 @@
+,value
+"exact duplicate tweets (train, rows beyond first)",8
+train rows in duplicate groups,887
+duplicate groups,334
+groups with conflicting labels,2
+test tweets also present in train,10
+duplicate tweets within test (beyond first),201
