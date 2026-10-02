@@ -1,6 +1,6 @@
 model_name,model,preprocessing,sequence_length,embedding,train_time,validation_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
-Transformer,transformer,A_minimal,64,learned_100d,589.9s,0.9991,0.9785,0.995,0.9866,0.9991
-CNN,cnn,A_minimal,64,learned_100d,84.5s,0.9992,0.9983,0.9737,0.9851,0.9992
-TF-IDF + LogReg,tfidf_logreg,A_minimal,n/a (bag-of-ngrams),,2.7s,0.9958,0.9632,0.9882,0.9747,0.9959
-TCN,tcn,A_minimal,64,learned_100d,341.5s,0.9951,0.8931,0.8754,0.8838,0.995
-LSTM,lstm,A_minimal,64,learned_128d,89.4s,0.9956,0.8716,0.88,0.8754,0.9956
+Transformer,transformer,A_minimal,64,learned_100d,12772.5s,0.9991,0.9785,0.995,0.9866,0.9991
+CNN,cnn,A_minimal,64,learned_100d,109.4s,0.9992,0.9983,0.9737,0.9851,0.9992
+TF-IDF + LogReg,tfidf_logreg,A_minimal,n/a (bag-of-ngrams),,5.6s,0.9958,0.9632,0.9882,0.9747,0.9959
+TCN,tcn,A_minimal,64,learned_100d,316.8s,0.995,0.893,0.8739,0.883,0.9949
+LSTM,lstm,A_minimal,64,learned_128d,136.2s,0.995,0.8587,0.8749,0.865,0.9951

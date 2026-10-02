@@ -77,7 +77,7 @@ ID_0CJ6N60E,sexual_violence,True,True,True,True,True,5
 ID_0CUEQFW9,sexual_violence,True,True,True,True,True,5
 ID_0CXLC2N5,sexual_violence,True,True,True,True,True,5
 ID_0D60UQFA,sexual_violence,True,True,True,True,True,5
-ID_0DBFGFZV,sexual_violence,True,True,True,True,False,4
+ID_0DBFGFZV,sexual_violence,True,False,True,True,False,3
 ID_0DBI7008,sexual_violence,True,True,True,True,True,5
 ID_0DE21HWX,Physical_violence,True,True,True,True,True,5
 ID_0DH63KAQ,sexual_violence,True,True,True,True,True,5
@@ -176,7 +176,7 @@ ID_0QE2KXH0,sexual_violence,True,True,True,True,True,5
 ID_0QL4F08Y,sexual_violence,True,True,True,True,True,5
 ID_0QYTFUHY,sexual_violence,True,True,True,True,True,5
 ID_0R1T7LEW,sexual_violence,True,True,True,True,True,5
-ID_0RBFBVFA,Harmful_Traditional_practice,False,False,False,True,True,2
+ID_0RBFBVFA,Harmful_Traditional_practice,False,True,False,True,True,3
 ID_0RCKB5ZC,sexual_violence,True,True,True,True,True,5
 ID_0RGC4TA3,sexual_violence,True,True,True,True,True,5
 ID_0RRTJ0G7,sexual_violence,True,True,True,True,True,5
@@ -566,7 +566,7 @@ ID_2H4WHEIP,sexual_violence,True,True,True,True,True,5
 ID_2HEZ5TY5,Physical_violence,True,True,True,True,True,5
 ID_2HIALDD4,Physical_violence,True,True,True,True,True,5
 ID_2HK8QR95,sexual_violence,True,True,True,True,True,5
-ID_2HMBY4V7,emotional_violence,True,False,True,False,True,3
+ID_2HMBY4V7,emotional_violence,True,True,True,False,True,4
 ID_2HT3ANJ5,Physical_violence,True,True,True,True,True,5
 ID_2HX6P0ZN,Physical_violence,True,True,True,True,True,5
 ID_2IBXM8C0,sexual_violence,True,True,True,True,True,5
@@ -953,7 +953,7 @@ ID_4AMG9BDT,sexual_violence,True,True,True,True,True,5
 ID_4AOT8SYU,sexual_violence,True,True,True,True,True,5
 ID_4AROSREW,sexual_violence,True,True,True,True,True,5
 ID_4B8ELWD9,sexual_violence,True,True,True,True,True,5
-ID_4BBHSOL8,Harmful_Traditional_practice,True,False,False,False,True,2
+ID_4BBHSOL8,Harmful_Traditional_practice,True,True,False,False,True,3
 ID_4BLGYBL0,sexual_violence,True,True,True,True,True,5
 ID_4C5TDD4J,sexual_violence,True,True,True,True,True,5
 ID_4C74KJ2L,sexual_violence,True,True,True,True,True,5
@@ -1405,7 +1405,7 @@ ID_67N93YX8,sexual_violence,True,True,True,True,True,5
 ID_67WSI554,Physical_violence,True,True,True,True,True,5
 ID_685W94XL,sexual_violence,True,True,True,True,True,5
 ID_68AP2KE2,sexual_violence,True,True,True,True,True,5
-ID_68KGAI89,sexual_violence,True,False,True,True,True,4
+ID_68KGAI89,sexual_violence,True,True,True,True,True,5
 ID_6991H9LN,sexual_violence,True,True,True,True,True,5
 ID_69AL11Y7,sexual_violence,True,True,True,True,True,5
 ID_69K7Y4AJ,sexual_violence,True,True,True,True,True,5
@@ -1693,7 +1693,7 @@ ID_7I4LJDHB,Physical_violence,True,True,True,True,True,5
 ID_7IEIGSHR,sexual_violence,True,True,True,True,True,5
 ID_7IGZC349,sexual_violence,True,True,True,True,True,5
 ID_7IL017L3,sexual_violence,True,True,True,True,True,5
-ID_7ILWK9UW,emotional_violence,True,True,True,True,True,5
+ID_7ILWK9UW,emotional_violence,True,False,True,True,True,4
 ID_7IPJUZDO,sexual_violence,True,True,True,True,True,5
 ID_7IQZA4TS,sexual_violence,True,True,True,True,True,5
 ID_7J2KW0DA,sexual_violence,True,True,True,True,True,5
@@ -2202,7 +2202,7 @@ ID_9TF5W6O1,sexual_violence,True,True,True,True,True,5
 ID_9TTTRK65,sexual_violence,True,True,True,True,True,5
 ID_9U2AIWO6,emotional_violence,True,True,True,True,True,5
 ID_9U8GYBVJ,sexual_violence,True,True,True,True,True,5
-ID_9UB2YSLO,sexual_violence,True,False,True,True,True,4
+ID_9UB2YSLO,sexual_violence,True,True,True,True,True,5
 ID_9UDS1L71,Physical_violence,True,True,True,True,True,5
 ID_9UFIKC09,sexual_violence,True,True,True,True,True,5
 ID_9UKQ33P3,sexual_violence,True,True,True,True,True,5
@@ -2212,7 +2212,7 @@ ID_9UW221VD,sexual_violence,True,True,True,True,True,5
 ID_9UWQD3JY,sexual_violence,True,True,True,True,True,5
 ID_9VNF1VAQ,sexual_violence,True,True,True,True,True,5
 ID_9VSTEZDJ,Physical_violence,True,True,True,True,True,5
-ID_9VTX61B7,sexual_violence,True,True,True,True,True,5
+ID_9VTX61B7,sexual_violence,True,False,True,True,True,4
 ID_9VZNXSIG,sexual_violence,True,True,True,True,True,5
 ID_9W2TAX42,emotional_violence,True,True,True,True,True,5
 ID_9WDPTCDR,sexual_violence,True,True,True,True,True,5
@@ -2493,7 +2493,7 @@ ID_B6GZ44Z1,Physical_violence,True,True,True,True,True,5
 ID_B6J1KSK8,sexual_violence,True,True,True,True,True,5
 ID_B6N6A8W0,sexual_violence,True,True,True,True,True,5
 ID_B6UQJOM9,sexual_violence,True,True,True,True,True,5
-ID_B70DGOWI,sexual_violence,True,True,True,True,True,5
+ID_B70DGOWI,sexual_violence,True,False,True,True,True,4
 ID_B70OABWF,sexual_violence,True,True,True,True,True,5
 ID_B71IHS1V,Physical_violence,True,True,True,True,True,5
 ID_B730S2I7,sexual_violence,True,True,True,True,True,5
@@ -2920,7 +2920,7 @@ ID_D1SJYVVI,sexual_violence,True,True,True,True,True,5
 ID_D258O1XT,Physical_violence,True,True,True,True,True,5
 ID_D26K52JC,sexual_violence,True,True,True,True,True,5
 ID_D2E9N5YP,sexual_violence,True,True,True,True,True,5
-ID_D2HG8FGR,sexual_violence,True,True,True,True,True,5
+ID_D2HG8FGR,sexual_violence,True,False,True,True,True,4
 ID_D2RQ14QI,sexual_violence,True,True,True,True,True,5
 ID_D3560EBE,sexual_violence,True,True,True,True,True,5
 ID_D3D16KMT,Physical_violence,True,True,True,True,True,5
@@ -3209,7 +3209,7 @@ ID_EGI64HG5,sexual_violence,True,True,True,True,True,5
 ID_EGMRBT1N,sexual_violence,True,True,True,True,True,5
 ID_EGOS5W47,sexual_violence,True,True,True,True,True,5
 ID_EGRTLZS4,Physical_violence,True,True,True,True,True,5
-ID_EGSMC53L,economic_violence,True,False,True,True,True,4
+ID_EGSMC53L,economic_violence,True,True,True,True,True,5
 ID_EGXB4XHK,sexual_violence,True,True,True,True,True,5
 ID_EH3H1MPB,sexual_violence,True,True,True,True,True,5
 ID_EH8211OE,Physical_violence,True,True,True,True,True,5
@@ -3310,7 +3310,7 @@ ID_EX5GI7EH,sexual_violence,True,True,True,True,True,5
 ID_EX6DXHNA,sexual_violence,True,True,True,True,True,5
 ID_EX81ZHY7,sexual_violence,True,True,True,True,True,5
 ID_EXX4DP7J,sexual_violence,True,True,True,True,True,5
-ID_EY5QRJE5,Harmful_Traditional_practice,True,False,True,True,True,4
+ID_EY5QRJE5,Harmful_Traditional_practice,True,True,True,True,True,5
 ID_EYLXD29N,sexual_violence,True,True,True,True,True,5
 ID_EYUOJ4X0,sexual_violence,True,True,True,True,True,5
 ID_EYVPW5G0,sexual_violence,True,True,True,True,True,5
@@ -3647,7 +3647,7 @@ ID_GKOX68X5,sexual_violence,True,True,True,True,True,5
 ID_GKSEKDV6,sexual_violence,True,True,True,True,True,5
 ID_GKTIYCAZ,sexual_violence,True,True,True,True,True,5
 ID_GL13YCQR,sexual_violence,True,True,True,True,True,5
-ID_GL2VKCAU,economic_violence,True,True,True,True,True,5
+ID_GL2VKCAU,economic_violence,True,False,True,True,True,4
 ID_GLFUMQV4,sexual_violence,True,True,True,True,True,5
 ID_GLGZP7DZ,sexual_violence,True,True,True,True,True,5
 ID_GLIZWRAQ,sexual_violence,True,True,True,True,True,5
@@ -3656,7 +3656,7 @@ ID_GLMIG8ZY,sexual_violence,True,True,True,True,True,5
 ID_GLW858OD,sexual_violence,True,True,True,True,True,5
 ID_GMASWEBS,sexual_violence,True,True,True,True,True,5
 ID_GMB65CAG,sexual_violence,True,True,True,True,True,5
-ID_GMDURS2F,economic_violence,True,True,True,True,True,5
+ID_GMDURS2F,economic_violence,True,False,True,True,True,4
 ID_GMOM47NV,sexual_violence,True,True,True,True,True,5
 ID_GMQTZ5IT,sexual_violence,True,True,True,True,True,5
 ID_GMSVSK2O,Physical_violence,True,True,True,True,True,5
@@ -3755,7 +3755,7 @@ ID_H2L1F35A,sexual_violence,True,True,True,True,True,5
 ID_H2O0FPHB,sexual_violence,True,True,True,True,True,5
 ID_H2SNHZRY,Physical_violence,True,True,True,True,True,5
 ID_H2V8CMRK,sexual_violence,True,True,True,True,True,5
-ID_H2VG3TAD,Harmful_Traditional_practice,True,True,True,False,True,4
+ID_H2VG3TAD,Harmful_Traditional_practice,True,False,True,False,True,3
 ID_H2VV4DTQ,Physical_violence,True,True,True,True,True,5
 ID_H366GJBF,sexual_violence,True,True,True,True,True,5
 ID_H38SFKJD,sexual_violence,True,True,True,True,True,5
@@ -4330,7 +4330,7 @@ ID_JJ0IASEA,sexual_violence,True,True,True,True,True,5
 ID_JJ3LU6WO,sexual_violence,True,True,True,True,True,5
 ID_JJ4QIAAO,sexual_violence,True,True,True,True,True,5
 ID_JJBOTCIA,sexual_violence,True,True,True,True,True,5
-ID_JJJIFSKW,emotional_violence,True,True,True,True,True,5
+ID_JJJIFSKW,emotional_violence,True,True,True,False,True,4
 ID_JK6TXR24,Physical_violence,True,True,True,True,True,5
 ID_JKAK7R6V,sexual_violence,True,True,True,True,True,5
 ID_JKAO6MPN,sexual_violence,True,True,True,True,True,5
@@ -5075,7 +5075,7 @@ ID_N1SVLK4C,Physical_violence,True,True,True,True,True,5
 ID_N1VA1785,sexual_violence,True,True,True,True,True,5
 ID_N1WSCS9X,sexual_violence,True,True,True,True,True,5
 ID_N1WT8GGG,sexual_violence,True,True,True,True,True,5
-ID_N1X9EABP,sexual_violence,True,True,True,True,True,5
+ID_N1X9EABP,sexual_violence,True,False,True,True,True,4
 ID_N1ZV93LW,sexual_violence,True,True,True,True,True,5
 ID_N2BW3V91,sexual_violence,True,True,True,True,True,5
 ID_N2NJIZL7,sexual_violence,True,True,True,True,True,5
@@ -5135,7 +5135,7 @@ ID_NAXPVUEV,sexual_violence,True,True,True,True,True,5
 ID_NAZCNFOJ,sexual_violence,True,True,True,True,True,5
 ID_NB0WQWF9,sexual_violence,True,True,True,True,True,5
 ID_NBBKFQP7,Physical_violence,True,True,True,True,True,5
-ID_NBFNTVFK,sexual_violence,True,False,True,True,False,3
+ID_NBFNTVFK,sexual_violence,True,True,True,True,False,4
 ID_NBXUPD1C,sexual_violence,True,True,True,True,True,5
 ID_NCAONYQZ,sexual_violence,True,True,True,True,True,5
 ID_NCL85IM0,sexual_violence,True,True,True,True,True,5
@@ -5218,7 +5218,7 @@ ID_NOR1TXRA,sexual_violence,True,True,True,True,True,5
 ID_NOWXBYS7,sexual_violence,True,True,True,True,True,5
 ID_NP17KL31,sexual_violence,True,True,True,True,True,5
 ID_NP9NZLH1,sexual_violence,True,True,True,True,True,5
-ID_NPASY3QE,economic_violence,True,True,True,True,True,5
+ID_NPASY3QE,economic_violence,True,False,True,True,True,4
 ID_NPXZH5WC,sexual_violence,True,True,True,True,True,5
 ID_NPY6ZAZO,sexual_violence,True,True,True,True,True,5
 ID_NPYOSNHO,sexual_violence,True,True,True,True,True,5
@@ -5517,7 +5517,7 @@ ID_P32J2MUK,sexual_violence,True,True,True,True,True,5
 ID_P3O2VDNQ,sexual_violence,True,True,True,True,True,5
 ID_P3TM1D7F,sexual_violence,True,True,True,True,True,5
 ID_P3VEUUFV,Physical_violence,True,True,True,True,True,5
-ID_P3YBOV1V,emotional_violence,True,False,True,True,True,4
+ID_P3YBOV1V,emotional_violence,True,True,True,True,True,5
 ID_P40LSQCW,sexual_violence,True,True,True,True,True,5
 ID_P433BM1S,Physical_violence,True,True,True,True,True,5
 ID_P48UJR3L,sexual_violence,True,True,True,True,True,5
@@ -5675,7 +5675,7 @@ ID_PUF6DBZ2,sexual_violence,True,True,True,True,True,5
 ID_PUL6WR8G,sexual_violence,True,True,True,True,True,5
 ID_PUNRGSHA,sexual_violence,True,True,True,True,True,5
 ID_PUPVTSW3,sexual_violence,True,True,True,True,True,5
-ID_PURRLTIY,emotional_violence,True,False,True,True,True,4
+ID_PURRLTIY,emotional_violence,True,True,True,True,True,5
 ID_PUVGJUS5,sexual_violence,True,True,True,True,True,5
 ID_PV5QG9LV,sexual_violence,True,True,True,True,True,5
 ID_PVCY9JMA,sexual_violence,True,True,True,True,True,5
@@ -6140,7 +6140,7 @@ ID_RWRNG7YJ,emotional_violence,True,True,True,True,True,5
 ID_RX2BU7MK,sexual_violence,True,True,True,True,True,5
 ID_RX358K2A,sexual_violence,True,True,True,True,True,5
 ID_RXA0VCBI,sexual_violence,True,True,True,True,True,5
-ID_RXDSGUUF,economic_violence,True,True,True,False,True,4
+ID_RXDSGUUF,economic_violence,True,False,True,False,True,3
 ID_RXFWPSFF,sexual_violence,True,True,True,True,True,5
 ID_RXJ0WMWR,sexual_violence,True,True,True,True,True,5
 ID_RXJCKSUV,sexual_violence,True,True,True,True,True,5
@@ -6148,7 +6148,7 @@ ID_RZ17M6N8,sexual_violence,True,True,True,True,True,5
 ID_RZ3OTV2F,sexual_violence,True,True,True,True,True,5
 ID_RZ87V9W4,sexual_violence,True,True,True,True,True,5
 ID_RZNL5IO7,sexual_violence,True,True,True,True,True,5
-ID_RZRGED0E,sexual_violence,False,True,False,True,False,2
+ID_RZRGED0E,sexual_violence,False,False,False,True,False,1
 ID_RZU3FX4Z,sexual_violence,True,True,True,True,True,5
 ID_S01LRHOO,sexual_violence,True,True,True,True,True,5
 ID_S07Q8R7C,sexual_violence,True,True,True,True,True,5
@@ -6435,7 +6435,7 @@ ID_TBI2UQWK,sexual_violence,True,True,True,True,True,5
 ID_TBNW597I,sexual_violence,True,True,True,True,True,5
 ID_TBROPHZF,Harmful_Traditional_practice,True,False,True,True,True,4
 ID_TC2NKQR1,sexual_violence,True,True,True,True,True,5
-ID_TC4M48M9,sexual_violence,True,True,True,True,True,5
+ID_TC4M48M9,sexual_violence,True,False,True,True,True,4
 ID_TC7SC66A,sexual_violence,True,True,True,True,True,5
 ID_TC9ISYIZ,sexual_violence,True,True,True,True,True,5
 ID_TCHIAIHZ,sexual_violence,True,True,True,True,True,5
@@ -6507,7 +6507,7 @@ ID_TNSE93JI,Physical_violence,True,True,True,True,True,5
 ID_TOLF3IPX,sexual_violence,True,True,True,True,True,5
 ID_TOPY64G0,sexual_violence,True,True,True,True,True,5
 ID_TORETEZ6,sexual_violence,True,True,True,True,True,5
-ID_TOS2Y905,sexual_violence,True,True,True,True,True,5
+ID_TOS2Y905,sexual_violence,True,False,True,True,True,4
 ID_TOSRRQ6S,Physical_violence,True,True,True,True,True,5
 ID_TOZ1LPNG,Physical_violence,True,True,True,True,True,5
 ID_TP2AWK4J,sexual_violence,True,True,True,True,True,5
@@ -6557,7 +6557,7 @@ ID_TXLA91M5,sexual_violence,True,True,True,True,True,5
 ID_TXPOK73Q,sexual_violence,True,True,True,True,True,5
 ID_TXTZ1RZK,sexual_violence,True,True,True,True,True,5
 ID_TXX3685Q,sexual_violence,True,True,True,True,True,5
-ID_TXZ1V99E,sexual_violence,True,False,True,False,True,3
+ID_TXZ1V99E,sexual_violence,True,True,True,False,True,4
 ID_TY1GX36C,sexual_violence,True,True,True,True,True,5
 ID_TY2KAWAZ,sexual_violence,True,True,True,True,True,5
 ID_TY8E80MT,sexual_violence,True,True,True,True,True,5
@@ -6966,7 +6966,7 @@ ID_VX5S8JZD,sexual_violence,True,True,True,True,True,5
 ID_VX89ROC4,sexual_violence,True,True,True,True,True,5
 ID_VXH8TSLF,Physical_violence,True,True,True,True,True,5
 ID_VXOT8IHY,sexual_violence,True,True,True,True,True,5
-ID_VXRB0Y6U,economic_violence,True,True,True,False,True,4
+ID_VXRB0Y6U,economic_violence,True,False,True,False,True,3
 ID_VXWD9JIM,sexual_violence,True,True,True,True,True,5
 ID_VY3IBS7R,sexual_violence,True,True,True,True,True,5
 ID_VY446K28,sexual_violence,True,True,True,True,True,5
@@ -6992,7 +6992,7 @@ ID_W10XA4DR,sexual_violence,True,True,True,True,True,5
 ID_W1E0WQUE,emotional_violence,True,True,True,True,True,5
 ID_W1FSI16S,sexual_violence,True,True,True,True,True,5
 ID_W1TLJY03,sexual_violence,True,True,True,True,True,5
-ID_W1TWJIMD,sexual_violence,False,True,True,True,True,4
+ID_W1TWJIMD,sexual_violence,False,False,True,True,True,3
 ID_W1URDA47,sexual_violence,True,True,True,True,True,5
 ID_W1W72XB1,sexual_violence,True,True,True,True,True,5
 ID_W1Z1TP30,sexual_violence,True,True,True,True,True,5

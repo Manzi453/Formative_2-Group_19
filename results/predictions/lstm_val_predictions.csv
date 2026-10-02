@@ -77,7 +77,7 @@ ID_0CJ6N60E,sexual_violence,sexual_violence
 ID_0CUEQFW9,sexual_violence,sexual_violence
 ID_0CXLC2N5,sexual_violence,sexual_violence
 ID_0D60UQFA,sexual_violence,sexual_violence
-ID_0DBFGFZV,sexual_violence,sexual_violence
+ID_0DBFGFZV,sexual_violence,Harmful_Traditional_practice
 ID_0DBI7008,sexual_violence,sexual_violence
 ID_0DE21HWX,Physical_violence,Physical_violence
 ID_0DH63KAQ,sexual_violence,sexual_violence
@@ -176,7 +176,7 @@ ID_0QE2KXH0,sexual_violence,sexual_violence
 ID_0QL4F08Y,sexual_violence,sexual_violence
 ID_0QYTFUHY,sexual_violence,sexual_violence
 ID_0R1T7LEW,sexual_violence,sexual_violence
-ID_0RBFBVFA,Harmful_Traditional_practice,economic_violence
+ID_0RBFBVFA,Harmful_Traditional_practice,Harmful_Traditional_practice
 ID_0RCKB5ZC,sexual_violence,sexual_violence
 ID_0RGC4TA3,sexual_violence,sexual_violence
 ID_0RRTJ0G7,sexual_violence,sexual_violence
@@ -566,7 +566,7 @@ ID_2H4WHEIP,sexual_violence,sexual_violence
 ID_2HEZ5TY5,Physical_violence,Physical_violence
 ID_2HIALDD4,Physical_violence,Physical_violence
 ID_2HK8QR95,sexual_violence,sexual_violence
-ID_2HMBY4V7,emotional_violence,sexual_violence
+ID_2HMBY4V7,emotional_violence,emotional_violence
 ID_2HT3ANJ5,Physical_violence,Physical_violence
 ID_2HX6P0ZN,Physical_violence,Physical_violence
 ID_2IBXM8C0,sexual_violence,sexual_violence
@@ -953,7 +953,7 @@ ID_4AMG9BDT,sexual_violence,sexual_violence
 ID_4AOT8SYU,sexual_violence,sexual_violence
 ID_4AROSREW,sexual_violence,sexual_violence
 ID_4B8ELWD9,sexual_violence,sexual_violence
-ID_4BBHSOL8,Harmful_Traditional_practice,economic_violence
+ID_4BBHSOL8,Harmful_Traditional_practice,Harmful_Traditional_practice
 ID_4BLGYBL0,sexual_violence,sexual_violence
 ID_4C5TDD4J,sexual_violence,sexual_violence
 ID_4C74KJ2L,sexual_violence,sexual_violence
@@ -1405,7 +1405,7 @@ ID_67N93YX8,sexual_violence,sexual_violence
 ID_67WSI554,Physical_violence,Physical_violence
 ID_685W94XL,sexual_violence,sexual_violence
 ID_68AP2KE2,sexual_violence,sexual_violence
-ID_68KGAI89,sexual_violence,economic_violence
+ID_68KGAI89,sexual_violence,sexual_violence
 ID_6991H9LN,sexual_violence,sexual_violence
 ID_69AL11Y7,sexual_violence,sexual_violence
 ID_69K7Y4AJ,sexual_violence,sexual_violence
@@ -1693,7 +1693,7 @@ ID_7I4LJDHB,Physical_violence,Physical_violence
 ID_7IEIGSHR,sexual_violence,sexual_violence
 ID_7IGZC349,sexual_violence,sexual_violence
 ID_7IL017L3,sexual_violence,sexual_violence
-ID_7ILWK9UW,emotional_violence,emotional_violence
+ID_7ILWK9UW,emotional_violence,Harmful_Traditional_practice
 ID_7IPJUZDO,sexual_violence,sexual_violence
 ID_7IQZA4TS,sexual_violence,sexual_violence
 ID_7J2KW0DA,sexual_violence,sexual_violence
@@ -2202,7 +2202,7 @@ ID_9TF5W6O1,sexual_violence,sexual_violence
 ID_9TTTRK65,sexual_violence,sexual_violence
 ID_9U2AIWO6,emotional_violence,emotional_violence
 ID_9U8GYBVJ,sexual_violence,sexual_violence
-ID_9UB2YSLO,sexual_violence,emotional_violence
+ID_9UB2YSLO,sexual_violence,sexual_violence
 ID_9UDS1L71,Physical_violence,Physical_violence
 ID_9UFIKC09,sexual_violence,sexual_violence
 ID_9UKQ33P3,sexual_violence,sexual_violence
@@ -2212,7 +2212,7 @@ ID_9UW221VD,sexual_violence,sexual_violence
 ID_9UWQD3JY,sexual_violence,sexual_violence
 ID_9VNF1VAQ,sexual_violence,sexual_violence
 ID_9VSTEZDJ,Physical_violence,Physical_violence
-ID_9VTX61B7,sexual_violence,sexual_violence
+ID_9VTX61B7,sexual_violence,emotional_violence
 ID_9VZNXSIG,sexual_violence,sexual_violence
 ID_9W2TAX42,emotional_violence,emotional_violence
 ID_9WDPTCDR,sexual_violence,sexual_violence
@@ -2381,7 +2381,7 @@ ID_APRP4O1O,economic_violence,economic_violence
 ID_APTN7AW7,sexual_violence,sexual_violence
 ID_APUEUF5J,sexual_violence,sexual_violence
 ID_APV72QGJ,sexual_violence,sexual_violence
-ID_APXD31MZ,economic_violence,sexual_violence
+ID_APXD31MZ,economic_violence,Harmful_Traditional_practice
 ID_AQ1M79CM,sexual_violence,sexual_violence
 ID_AQ7LN8EU,sexual_violence,sexual_violence
 ID_AQEK6TAA,sexual_violence,sexual_violence
@@ -2493,7 +2493,7 @@ ID_B6GZ44Z1,Physical_violence,Physical_violence
 ID_B6J1KSK8,sexual_violence,sexual_violence
 ID_B6N6A8W0,sexual_violence,sexual_violence
 ID_B6UQJOM9,sexual_violence,sexual_violence
-ID_B70DGOWI,sexual_violence,sexual_violence
+ID_B70DGOWI,sexual_violence,Harmful_Traditional_practice
 ID_B70OABWF,sexual_violence,sexual_violence
 ID_B71IHS1V,Physical_violence,Physical_violence
 ID_B730S2I7,sexual_violence,sexual_violence
@@ -2730,7 +2730,7 @@ ID_C4UMO0KN,sexual_violence,sexual_violence
 ID_C4VU8VLS,sexual_violence,sexual_violence
 ID_C5AL6IL7,sexual_violence,sexual_violence
 ID_C5I7YNWX,sexual_violence,sexual_violence
-ID_C5NRB3MM,Harmful_Traditional_practice,economic_violence
+ID_C5NRB3MM,Harmful_Traditional_practice,sexual_violence
 ID_C5PJT8YV,sexual_violence,sexual_violence
 ID_C5VQV1JQ,sexual_violence,sexual_violence
 ID_C5W7VKT0,sexual_violence,sexual_violence
@@ -2920,7 +2920,7 @@ ID_D1SJYVVI,sexual_violence,sexual_violence
 ID_D258O1XT,Physical_violence,Physical_violence
 ID_D26K52JC,sexual_violence,sexual_violence
 ID_D2E9N5YP,sexual_violence,sexual_violence
-ID_D2HG8FGR,sexual_violence,sexual_violence
+ID_D2HG8FGR,sexual_violence,economic_violence
 ID_D2RQ14QI,sexual_violence,sexual_violence
 ID_D3560EBE,sexual_violence,sexual_violence
 ID_D3D16KMT,Physical_violence,Physical_violence
@@ -3209,7 +3209,7 @@ ID_EGI64HG5,sexual_violence,sexual_violence
 ID_EGMRBT1N,sexual_violence,sexual_violence
 ID_EGOS5W47,sexual_violence,sexual_violence
 ID_EGRTLZS4,Physical_violence,Physical_violence
-ID_EGSMC53L,economic_violence,sexual_violence
+ID_EGSMC53L,economic_violence,economic_violence
 ID_EGXB4XHK,sexual_violence,sexual_violence
 ID_EH3H1MPB,sexual_violence,sexual_violence
 ID_EH8211OE,Physical_violence,Physical_violence
@@ -3310,7 +3310,7 @@ ID_EX5GI7EH,sexual_violence,sexual_violence
 ID_EX6DXHNA,sexual_violence,sexual_violence
 ID_EX81ZHY7,sexual_violence,sexual_violence
 ID_EXX4DP7J,sexual_violence,sexual_violence
-ID_EY5QRJE5,Harmful_Traditional_practice,emotional_violence
+ID_EY5QRJE5,Harmful_Traditional_practice,Harmful_Traditional_practice
 ID_EYLXD29N,sexual_violence,sexual_violence
 ID_EYUOJ4X0,sexual_violence,sexual_violence
 ID_EYVPW5G0,sexual_violence,sexual_violence
@@ -3647,7 +3647,7 @@ ID_GKOX68X5,sexual_violence,sexual_violence
 ID_GKSEKDV6,sexual_violence,sexual_violence
 ID_GKTIYCAZ,sexual_violence,sexual_violence
 ID_GL13YCQR,sexual_violence,sexual_violence
-ID_GL2VKCAU,economic_violence,economic_violence
+ID_GL2VKCAU,economic_violence,Harmful_Traditional_practice
 ID_GLFUMQV4,sexual_violence,sexual_violence
 ID_GLGZP7DZ,sexual_violence,sexual_violence
 ID_GLIZWRAQ,sexual_violence,sexual_violence
@@ -3656,7 +3656,7 @@ ID_GLMIG8ZY,sexual_violence,sexual_violence
 ID_GLW858OD,sexual_violence,sexual_violence
 ID_GMASWEBS,sexual_violence,sexual_violence
 ID_GMB65CAG,sexual_violence,sexual_violence
-ID_GMDURS2F,economic_violence,economic_violence
+ID_GMDURS2F,economic_violence,Harmful_Traditional_practice
 ID_GMOM47NV,sexual_violence,sexual_violence
 ID_GMQTZ5IT,sexual_violence,sexual_violence
 ID_GMSVSK2O,Physical_violence,Physical_violence
@@ -3755,7 +3755,7 @@ ID_H2L1F35A,sexual_violence,sexual_violence
 ID_H2O0FPHB,sexual_violence,sexual_violence
 ID_H2SNHZRY,Physical_violence,Physical_violence
 ID_H2V8CMRK,sexual_violence,sexual_violence
-ID_H2VG3TAD,Harmful_Traditional_practice,Harmful_Traditional_practice
+ID_H2VG3TAD,Harmful_Traditional_practice,sexual_violence
 ID_H2VV4DTQ,Physical_violence,Physical_violence
 ID_H366GJBF,sexual_violence,sexual_violence
 ID_H38SFKJD,sexual_violence,sexual_violence
@@ -4577,7 +4577,7 @@ ID_KQ68QDW2,sexual_violence,sexual_violence
 ID_KQBU0MB1,sexual_violence,sexual_violence
 ID_KQIHN468,sexual_violence,sexual_violence
 ID_KQIWEO79,sexual_violence,sexual_violence
-ID_KQMCBWZ6,Harmful_Traditional_practice,economic_violence
+ID_KQMCBWZ6,Harmful_Traditional_practice,sexual_violence
 ID_KQN1H0DP,Physical_violence,Physical_violence
 ID_KQZIM2GC,sexual_violence,sexual_violence
 ID_KR4GVIWS,sexual_violence,sexual_violence
@@ -5075,7 +5075,7 @@ ID_N1SVLK4C,Physical_violence,Physical_violence
 ID_N1VA1785,sexual_violence,sexual_violence
 ID_N1WSCS9X,sexual_violence,sexual_violence
 ID_N1WT8GGG,sexual_violence,sexual_violence
-ID_N1X9EABP,sexual_violence,sexual_violence
+ID_N1X9EABP,sexual_violence,economic_violence
 ID_N1ZV93LW,sexual_violence,sexual_violence
 ID_N2BW3V91,sexual_violence,sexual_violence
 ID_N2NJIZL7,sexual_violence,sexual_violence
@@ -5135,7 +5135,7 @@ ID_NAXPVUEV,sexual_violence,sexual_violence
 ID_NAZCNFOJ,sexual_violence,sexual_violence
 ID_NB0WQWF9,sexual_violence,sexual_violence
 ID_NBBKFQP7,Physical_violence,Physical_violence
-ID_NBFNTVFK,sexual_violence,economic_violence
+ID_NBFNTVFK,sexual_violence,sexual_violence
 ID_NBXUPD1C,sexual_violence,sexual_violence
 ID_NCAONYQZ,sexual_violence,sexual_violence
 ID_NCL85IM0,sexual_violence,sexual_violence
@@ -5218,7 +5218,7 @@ ID_NOR1TXRA,sexual_violence,sexual_violence
 ID_NOWXBYS7,sexual_violence,sexual_violence
 ID_NP17KL31,sexual_violence,sexual_violence
 ID_NP9NZLH1,sexual_violence,sexual_violence
-ID_NPASY3QE,economic_violence,economic_violence
+ID_NPASY3QE,economic_violence,Harmful_Traditional_practice
 ID_NPXZH5WC,sexual_violence,sexual_violence
 ID_NPY6ZAZO,sexual_violence,sexual_violence
 ID_NPYOSNHO,sexual_violence,sexual_violence
@@ -5517,7 +5517,7 @@ ID_P32J2MUK,sexual_violence,sexual_violence
 ID_P3O2VDNQ,sexual_violence,sexual_violence
 ID_P3TM1D7F,sexual_violence,sexual_violence
 ID_P3VEUUFV,Physical_violence,Physical_violence
-ID_P3YBOV1V,emotional_violence,sexual_violence
+ID_P3YBOV1V,emotional_violence,emotional_violence
 ID_P40LSQCW,sexual_violence,sexual_violence
 ID_P433BM1S,Physical_violence,Physical_violence
 ID_P48UJR3L,sexual_violence,sexual_violence
@@ -5675,7 +5675,7 @@ ID_PUF6DBZ2,sexual_violence,sexual_violence
 ID_PUL6WR8G,sexual_violence,sexual_violence
 ID_PUNRGSHA,sexual_violence,sexual_violence
 ID_PUPVTSW3,sexual_violence,sexual_violence
-ID_PURRLTIY,emotional_violence,economic_violence
+ID_PURRLTIY,emotional_violence,emotional_violence
 ID_PUVGJUS5,sexual_violence,sexual_violence
 ID_PV5QG9LV,sexual_violence,sexual_violence
 ID_PVCY9JMA,sexual_violence,sexual_violence
@@ -6140,7 +6140,7 @@ ID_RWRNG7YJ,emotional_violence,emotional_violence
 ID_RX2BU7MK,sexual_violence,sexual_violence
 ID_RX358K2A,sexual_violence,sexual_violence
 ID_RXA0VCBI,sexual_violence,sexual_violence
-ID_RXDSGUUF,economic_violence,economic_violence
+ID_RXDSGUUF,economic_violence,sexual_violence
 ID_RXFWPSFF,sexual_violence,sexual_violence
 ID_RXJ0WMWR,sexual_violence,sexual_violence
 ID_RXJCKSUV,sexual_violence,sexual_violence
@@ -6148,7 +6148,7 @@ ID_RZ17M6N8,sexual_violence,sexual_violence
 ID_RZ3OTV2F,sexual_violence,sexual_violence
 ID_RZ87V9W4,sexual_violence,sexual_violence
 ID_RZNL5IO7,sexual_violence,sexual_violence
-ID_RZRGED0E,sexual_violence,sexual_violence
+ID_RZRGED0E,sexual_violence,emotional_violence
 ID_RZU3FX4Z,sexual_violence,sexual_violence
 ID_S01LRHOO,sexual_violence,sexual_violence
 ID_S07Q8R7C,sexual_violence,sexual_violence
@@ -6363,7 +6363,7 @@ ID_SZG6C0TS,sexual_violence,sexual_violence
 ID_T048R1F6,Physical_violence,Physical_violence
 ID_T062EIVQ,sexual_violence,sexual_violence
 ID_T07G466L,sexual_violence,sexual_violence
-ID_T0SI5ZZS,sexual_violence,emotional_violence
+ID_T0SI5ZZS,sexual_violence,Harmful_Traditional_practice
 ID_T1JBKKEW,Physical_violence,Physical_violence
 ID_T1UV1A58,sexual_violence,sexual_violence
 ID_T24EX6G5,sexual_violence,sexual_violence
@@ -6435,7 +6435,7 @@ ID_TBI2UQWK,sexual_violence,sexual_violence
 ID_TBNW597I,sexual_violence,sexual_violence
 ID_TBROPHZF,Harmful_Traditional_practice,economic_violence
 ID_TC2NKQR1,sexual_violence,sexual_violence
-ID_TC4M48M9,sexual_violence,sexual_violence
+ID_TC4M48M9,sexual_violence,economic_violence
 ID_TC7SC66A,sexual_violence,sexual_violence
 ID_TC9ISYIZ,sexual_violence,sexual_violence
 ID_TCHIAIHZ,sexual_violence,sexual_violence
@@ -6507,7 +6507,7 @@ ID_TNSE93JI,Physical_violence,Physical_violence
 ID_TOLF3IPX,sexual_violence,sexual_violence
 ID_TOPY64G0,sexual_violence,sexual_violence
 ID_TORETEZ6,sexual_violence,sexual_violence
-ID_TOS2Y905,sexual_violence,sexual_violence
+ID_TOS2Y905,sexual_violence,economic_violence
 ID_TOSRRQ6S,Physical_violence,Physical_violence
 ID_TOZ1LPNG,Physical_violence,Physical_violence
 ID_TP2AWK4J,sexual_violence,sexual_violence
@@ -6557,7 +6557,7 @@ ID_TXLA91M5,sexual_violence,sexual_violence
 ID_TXPOK73Q,sexual_violence,sexual_violence
 ID_TXTZ1RZK,sexual_violence,sexual_violence
 ID_TXX3685Q,sexual_violence,sexual_violence
-ID_TXZ1V99E,sexual_violence,emotional_violence
+ID_TXZ1V99E,sexual_violence,sexual_violence
 ID_TY1GX36C,sexual_violence,sexual_violence
 ID_TY2KAWAZ,sexual_violence,sexual_violence
 ID_TY8E80MT,sexual_violence,sexual_violence
@@ -6966,7 +6966,7 @@ ID_VX5S8JZD,sexual_violence,sexual_violence
 ID_VX89ROC4,sexual_violence,sexual_violence
 ID_VXH8TSLF,Physical_violence,Physical_violence
 ID_VXOT8IHY,sexual_violence,sexual_violence
-ID_VXRB0Y6U,economic_violence,economic_violence
+ID_VXRB0Y6U,economic_violence,Harmful_Traditional_practice
 ID_VXWD9JIM,sexual_violence,sexual_violence
 ID_VY3IBS7R,sexual_violence,sexual_violence
 ID_VY446K28,sexual_violence,sexual_violence
@@ -6992,7 +6992,7 @@ ID_W10XA4DR,sexual_violence,sexual_violence
 ID_W1E0WQUE,emotional_violence,emotional_violence
 ID_W1FSI16S,sexual_violence,sexual_violence
 ID_W1TLJY03,sexual_violence,sexual_violence
-ID_W1TWJIMD,sexual_violence,sexual_violence
+ID_W1TWJIMD,sexual_violence,Physical_violence
 ID_W1URDA47,sexual_violence,sexual_violence
 ID_W1W72XB1,sexual_violence,sexual_violence
 ID_W1Z1TP30,sexual_violence,sexual_violence
@@ -7506,7 +7506,7 @@ ID_YAG7K7AZ,sexual_violence,sexual_violence
 ID_YAK7FO9Q,sexual_violence,sexual_violence
 ID_YAOA3RO1,sexual_violence,sexual_violence
 ID_YAOJ447H,sexual_violence,sexual_violence
-ID_YAV6NN9N,Harmful_Traditional_practice,economic_violence
+ID_YAV6NN9N,Harmful_Traditional_practice,sexual_violence
 ID_YB5MT61U,Physical_violence,Physical_violence
 ID_YB7IMV9D,sexual_violence,sexual_violence
 ID_YBFSVUR1,Physical_violence,Physical_violence
