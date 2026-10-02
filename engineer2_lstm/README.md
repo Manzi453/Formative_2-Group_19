@@ -1,9 +1,6 @@
 # Formative_2-Group_19 - Engineer 2 - LSTM
 
-Your slice of the Formative 2 repo - your notebook(s), the shared code, the data, and (only
-where unavoidable) the upstream file your notebook needs to run.
-
-## Your notebook
+## notebook
 
 `03_lstm.ipynb` - macro-F1 0.8754, ~1.5 min on an Apple Silicon Mac, a bit longer on CPU.
 
