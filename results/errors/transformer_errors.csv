@@ -1,0 +1,8 @@
+Tweet_ID,true_label,predicted,tokens
+ID_0DBFGFZV,sexual_violence,Harmful_Traditional_practice,50
+ID_5U5UEE90,sexual_violence,economic_violence,55
+ID_NBFNTVFK,sexual_violence,economic_violence,28
+ID_RZRGED0E,sexual_violence,emotional_violence,52
+ID_T0SI5ZZS,sexual_violence,economic_violence,56
+ID_U4SRDWSJ,economic_violence,emotional_violence,43
+ID_V7QP7MWC,Physical_violence,sexual_violence,53
