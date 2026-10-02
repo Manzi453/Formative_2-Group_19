@@ -1,0 +1,8 @@
+,chars,chars,chars,chars,tokens,tokens,tokens,tokens
+,count,mean,median,std,count,mean,median,std
+cls,,,,,,,,
+sexual_violence,32648,213.3,241.0,69.8,32648,41.8,46.0,13.8
+Physical_violence,5946,122.7,102.0,67.5,5946,23.1,19.0,13.3
+emotional_violence,651,202.7,225.0,71.3,651,38.4,42.0,13.7
+economic_violence,217,205.4,232.0,72.1,217,40.5,46.0,14.0
+Harmful_Traditional_practice,188,191.8,210.5,67.4,188,34.1,36.5,12.8

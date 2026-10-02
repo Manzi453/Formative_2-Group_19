@@ -1,0 +1,9 @@
+,value
+train tokens,1541114.0
+train vocabulary size,38046.0
+hapax (freq = 1),19152.0
+hapax % of vocabulary,50.34
+words with freq >= 5,9685.0
+test vocabulary size,23823.0
+test OOV token rate % (vs train vocab),2.4
+test OOV types % (vs train vocab),35.92

@@ -1,0 +1,9 @@
+,train,test
+rows,39650,15581
+columns,"Tweet_ID, tweet, type","Tweet_ID, tweet"
+missing values (total),0,0
+empty tweets,0,0
+unique IDs,39650,15581
+IDs unique?,True,True
+duplicate tweets (rows beyond first),8,13
+unique classes,5,n/a

@@ -1,0 +1,76 @@
+class,rank,token,coefficient
+Harmful_Traditional_practice,1,forced,8.052
+Harmful_Traditional_practice,2,marriage,6.554
+Harmful_Traditional_practice,3,child marriage,6.474
+Harmful_Traditional_practice,4,fgm,5.876
+Harmful_Traditional_practice,5,mutilation,4.87
+Harmful_Traditional_practice,6,genital mutilation,4.849
+Harmful_Traditional_practice,7,undergo,4.845
+Harmful_Traditional_practice,8,genital,4.827
+Harmful_Traditional_practice,9,female genital,4.819
+Harmful_Traditional_practice,10,child,4.741
+Harmful_Traditional_practice,11,female,4.02
+Harmful_Traditional_practice,12,undergo female,3.245
+Harmful_Traditional_practice,13,was forced,2.722
+Harmful_Traditional_practice,14,forced to,2.602
+Harmful_Traditional_practice,15,to undergo,2.31
+Physical_violence,1,beats,14.4
+Physical_violence,2,husband,13.777
+Physical_violence,3,my husband,9.074
+Physical_violence,4,beats me,6.787
+Physical_violence,5,my,6.292
+Physical_violence,6,husband beats,4.715
+Physical_violence,7,he beats,2.413
+Physical_violence,8,wife,2.052
+Physical_violence,9,beats the,2.051
+Physical_violence,10,beats her,1.806
+Physical_violence,11,her husband,1.777
+Physical_violence,12,nothing beats,1.703
+Physical_violence,13,husband is,1.38
+Physical_violence,14,love,1.299
+Physical_violence,15,tells,1.273
+economic_violence,1,fired,12.286
+economic_violence,2,job,9.603
+economic_violence,3,woman,6.016
+economic_violence,4,because,5.963
+economic_violence,5,was fired,4.638
+economic_violence,6,fired from,4.109
+economic_violence,7,job because,3.867
+economic_violence,8,was,3.249
+economic_violence,9,my job,2.815
+economic_violence,10,got fired,2.589
+economic_violence,11,boss,2.377
+economic_violence,12,because was,2.332
+economic_violence,13,fired because,2.146
+economic_violence,14,fired for,2.065
+economic_violence,15,from,2.057
+emotional_violence,1,public,15.956
+emotional_violence,2,humiliated,9.803
+emotional_violence,3,insulted,8.94
+emotional_violence,4,in public,8.777
+emotional_violence,5,in,4.908
+emotional_violence,6,insulted me,2.957
+emotional_violence,7,humiliated me,2.876
+emotional_violence,8,the public,2.7
+emotional_violence,9,verbally,2.692
+emotional_violence,10,he insulted,2.157
+emotional_violence,11,verbally abused,2.045
+emotional_violence,12,humiliated in,1.85
+emotional_violence,13,me in,1.839
+emotional_violence,14,abused,1.74
+emotional_violence,15,his,1.563
+sexual_violence,1,raped,9.743
+sexual_violence,2,he,5.847
+sexual_violence,3,raped me,5.348
+sexual_violence,4,he raped,5.169
+sexual_violence,5,was raped,2.507
+sexual_violence,6,rape,2.472
+sexual_violence,7,me,2.176
+sexual_violence,8,raped and,2.142
+sexual_violence,9,raped by,1.87
+sexual_violence,10,raped her,1.68
+sexual_violence,11,he was,1.674
+sexual_violence,12,and raped,1.643
+sexual_violence,13,being raped,1.508
+sexual_violence,14,by,1.39
+sexual_violence,15,rapist,1.368
