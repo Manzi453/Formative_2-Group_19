@@ -54,10 +54,12 @@ Collaboration rules and branching: see [docs/team_workflow.md](docs/team_workflo
 
 ## Links
 
-- **Demo video (7–10 min):** _TBD_
+- **Demo video (7–10 min):** https://youtu.be/eSOZbQ8VuqY?si=k462dmjosgfniIkJ
 - **Contribution tracker:** [docs/contribution_tracker.md](docs/contribution_tracker.md)
-- **Final report (PDF):** _TBD_
 
 ## Group Members
 
-_TBD_
+Ivan Manzi
+Andrew Ogayo
+Francis Mutabazi
+Elvin Cyubahiro
