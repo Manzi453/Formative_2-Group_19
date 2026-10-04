@@ -55,11 +55,11 @@ Collaboration rules and branching: see [docs/team_workflow.md](docs/team_workflo
 ## Links
 
 - **Demo video (7–10 min):** https://youtu.be/eSOZbQ8VuqY?si=k462dmjosgfniIkJ
-- **Contribution tracker:** [docs/contribution_tracker.md](docs/contribution_tracker.md)
+- **Contribution tracker:** https://docs.google.com/spreadsheets/d/1ZznziNvzgTmelYTNwYO2W9CCuO4xoVr41pj1LDTAyqE/edit?usp=sharing
 
 ## Group Members
 
-Ivan Manzi
-Andrew Ogayo
-Francis Mutabazi
-Elvin Cyubahiro
+- Ivan Manzi
+- Andrew Ogayo
+- Francis Mutabazi
+- Elvin Cyubahiro
